@@ -1,5 +1,5 @@
-# Airline Management Service :airplane:
-The Airline Management Service has a microservice based architecture . It consists of several services that work together to provide a comprehensive solution. The main services are:
+# Ezflights :airplane:
+The Airline  Service `Ezflights` has a microservice based architecture . It consists of several services that work together to provide a comprehensive solution. The main services are:
 
 - Flights-search service
 - Authentication service
@@ -39,3 +39,4 @@ The API Gateway manages incoming request calls to all the services. It handles a
 - Sequelize
 - Nodemailer
 - AWS
+- PM2
