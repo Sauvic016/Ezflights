@@ -1,5 +1,9 @@
 # Ezflights :airplane:
 
+## Desktop view
+![Pc view](https://github.com/Sauvic016/Ezflights/blob/main/Pc_view.gif)
+## Mobile view
+![Mobile_view](https://github.com/Sauvic016/Ezflights/blob/main/mobile_view.gif)
 
 ## **[Frontend](https://github.com/Sauvic016/Ezflights-frontend)** : 
 The Frontend allows flights search by making api calls to flight-search service through api gateway.Users are required to authenticate themselves , User data are stored in localstorage and managed by context api. Once the required flights are selected with no. of passengers the flight is booked and the user receives a confirmation message ,the same is then sent to his/her email address.The Frontend has debouncing on Search, pagination for flights listing page, modals for signin and signup & sucess and errors notifications.
